@@ -1,0 +1,3 @@
+message.txt er gemt som fil med steghide og password "SBLOVESNC3" i grissenisse.jpg
+Indhold af message2.txt er gemt med LSB stego i elf.png
+

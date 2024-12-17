@@ -1,0 +1,114 @@
+Volatility 3 Framework 2.11.0
+
+PID	Process	Args
+
+4	System	Required memory at 0x20 is not valid (process exited?)
+104	Registry	Required memory at 0x20 is not valid (process exited?)
+492	smss.exe	\SystemRoot\System32\smss.exe
+644	csrss.exe	%SystemRoot%\system32\csrss.exe ObjectDirectory=\Windows SharedSection=1024,20480,768 Windows=On SubSystemType=Windows ServerDll=basesrv,1 ServerDll=winsrv:UserServerDllInitialization,3 ServerDll=sxssrv,4 ProfileControl=Off MaxRequestThreads=16
+740	wininit.exe	wininit.exe
+760	csrss.exe	%SystemRoot%\system32\csrss.exe ObjectDirectory=\Windows SharedSection=1024,20480,768 Windows=On SubSystemType=Windows ServerDll=basesrv,1 ServerDll=winsrv:UserServerDllInitialization,3 ServerDll=sxssrv,4 ProfileControl=Off MaxRequestThreads=16
+808	services.exe	C:\Windows\system32\services.exe
+836	lsass.exe	C:\Windows\system32\lsass.exe
+908	winlogon.exe	winlogon.exe
+396	svchost.exe	C:\Windows\system32\svchost.exe -k DcomLaunch -p
+560	fontdrvhost.ex	"fontdrvhost.exe"
+528	fontdrvhost.ex	"fontdrvhost.exe"
+1036	svchost.exe	C:\Windows\system32\svchost.exe -k RPCSS -p
+1136	dwm.exe	"dwm.exe"
+1144	LogonUI.exe	Required memory at 0xfd1d5fe020 is not valid (process exited?)
+1156	svchost.exe	C:\Windows\system32\svchost.exe -k netsvcs -p
+1164	svchost.exe	C:\Windows\system32\svchost.exe -k NetworkService -p
+1316	svchost.exe	C:\Windows\System32\svchost.exe -k LocalSystemNetworkRestricted -p
+1324	svchost.exe	C:\Windows\system32\svchost.exe -k LocalServiceNetworkRestricted -p
+1332	svchost.exe	C:\Windows\system32\svchost.exe -k LocalServiceNetworkRestricted -p
+1408	svchost.exe	C:\Windows\system32\svchost.exe -k LocalService -p
+1476	svchost.exe	C:\Windows\system32\svchost.exe -k LocalServiceNoNetwork -p
+1508	svchost.exe	C:\Windows\system32\svchost.exe -k UserProfileService -p
+1576	svchost.exe	C:\Windows\System32\svchost.exe -k netprofm -p
+1820	MemCompression	Required memory at 0x20 is not valid (process exited?)
+1856	WUDFHost.exe	"C:\Windows\System32\WUDFHost.exe" -HostGUID:{193a1820-d9ac-4997-8c55-be817523f6aa} -IoEventPortName:\UMDFCommunicationPorts\WUDF\HostProcess-46723e63-4473-46f6-8c2f-22b7eb0e5f0d -SystemEventPortName:\UMDFCommunicationPorts\WUDF\HostProcess-d7a86b73-6b07-4dd2-b1af-d94bc59c7908 -IoCancelEventPortName:\UMDFCommunicationPorts\WUDF\HostProcess-8840322c-b2ff-4928-82f6-3c63045757b6 -NonStateChangingEventPortName:\UMDFCommunicationPorts\WUDF\HostProcess-00c8d621-00f7-40d2-bf9d-fbb8d763b148 -LifetimeId:96e03f51-45ef-4378-a360-68598caf5f47 -DeviceGroupId:WpdFsGroup -HostArg:0
+2000	svchost.exe	C:\Windows\system32\svchost.exe -k NetworkService -p
+856	svchost.exe	C:\Windows\System32\svchost.exe -k LocalServiceNetworkRestricted -p
+2272	svchost.exe	C:\Windows\system32\svchost.exe -k appmodel -p
+2360	svchost.exe	C:\Windows\System32\svchost.exe -k LocalServiceNetworkRestricted -p
+2368	svchost.exe	C:\Windows\system32\svchost.exe -k LocalServiceNetworkRestricted -p
+2480	audiodg.exe	C:\Windows\system32\AUDIODG.EXE 0x000000000000044C
+2632	svchost.exe	C:\Windows\system32\svchost.exe -k LocalSystemNetworkRestricted -p
+2700	spoolsv.exe	C:\Windows\System32\spoolsv.exe
+2740	svchost.exe	C:\Windows\system32\svchost.exe -k NetSvcs
+2760	svchost.exe	C:\Windows\system32\svchost.exe -k LocalServiceNoNetworkFirewall -p
+2796	svchost.exe	C:\Windows\System32\svchost.exe -k NetworkService -p
+2988	FoxitPDFEditor	"C:\Program Files (x86)\Common Files\Foxit\Foxit PDF Editor\FoxitPDFEditorUpdateService.exe"
+3032	MpDefenderCore	"C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.24080.9-0\MpDefenderCoreService.exe"
+2664	svchost.exe	C:\Windows\System32\svchost.exe -k NetworkService
+1728	MsMpEng.exe	"C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.24080.9-0\MsMpEng.exe"
+3996	svchost.exe	C:\Windows\System32\svchost.exe -k wsappx -p
+3092	svchost.exe	C:\Windows\system32\svchost.exe -k WebThreatDefense -p
+2304	sihost.exe	sihost.exe
+3424	svchost.exe	C:\Windows\system32\svchost.exe -k UnistackSvcGroup
+3476	svchost.exe	C:\Windows\system32\svchost.exe -k LocalSystemNetworkRestricted -p
+2456	taskhostw.exe	taskhostw.exe {222A245B-E637-4AE9-A93F-A59CA119A75E}
+4200	userinit.exe	Required memory at 0x190627f020 is not valid (process exited?)
+4236	explorer.exe	C:\Windows\Explorer.EXE
+4268	svchost.exe	C:\Windows\System32\svchost.exe -k LocalServiceNetworkRestricted
+4804	svchost.exe	C:\Windows\system32\svchost.exe -k osprivacy -p
+4812	svchost.exe	C:\Windows\system32\svchost.exe -k ClipboardSvcGroup -p
+2336	SearchHost.exe	Required memory at 0x182ace8020 is inaccessible (swapped)
+4336	StartMenuExper	"C:\Windows\SystemApps\Microsoft.Windows.StartMenuExperienceHost_cw5n1h2txyewy\StartMenuExperienceHost.exe" -ServerName:App.AppXywbrabmsek0gm3tkwpr5kwzbs55tkqay.mca
+4984	Widgets.exe	"C:\Program Files\WindowsApps\MicrosoftWindows.Client.WebExperience_524.23700.10.0_x64__cw5n1h2txyewy\Dashboard\Widgets.exe" -ServerName:Microsoft.Windows.DashboardServer
+5236	RuntimeBroker.	C:\Windows\System32\RuntimeBroker.exe -Embedding
+5360	RuntimeBroker.	C:\Windows\System32\RuntimeBroker.exe -Embedding
+5372	WidgetService.	"C:\Program Files\WindowsApps\Microsoft.WidgetsPlatformRuntime_1.5.0.0_x64__8wekyb3d8bbwe\WidgetService\WidgetService.exe" -RegisterProcessAsComServer -Embedding
+5508	svchost.exe	C:\Windows\system32\svchost.exe -k UdkSvcGroup
+1116	dllhost.exe	C:\Windows\system32\DllHost.exe /Processid:{973D20D7-562D-44B9-B70B-5A0F49CCDF3F}
+5468	ctfmon.exe	"ctfmon.exe"
+6056	LockApp.exe	Required memory at 0xe699998020 is inaccessible (swapped)
+6152	RuntimeBroker.	C:\Windows\System32\RuntimeBroker.exe -Embedding
+6372	SearchIndexer.	C:\Windows\system32\SearchIndexer.exe /Embedding
+6388	svchost.exe	C:\Windows\system32\svchost.exe -k LocalService -p
+6304	NisSrv.exe	"C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.24080.9-0\NisSrv.exe"
+6604	smartscreen.ex	C:\Windows\System32\smartscreen.exe -Embedding
+6656	SecurityHealth	"C:\Windows\System32\SecurityHealthSystray.exe" 
+6692	SecurityHealth	C:\Windows\system32\SecurityHealthService.exe
+6756	VBoxTray.exe	"C:\Windows\System32\VBoxTray.exe" 
+7008	OneDrive.exe	"C:\Users\Nis. E. Juul\AppData\Local\Microsoft\OneDrive\OneDrive.exe" /background
+1232	msedge.exe	"C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" --no-startup-window --win-session-start
+5100	msedge.exe	"C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" --type=crashpad-handler "--user-data-dir=C:\Users\Nis. E. Juul\AppData\Local\Microsoft\Edge\User Data" /prefetch:4 --monitor-self-annotation=ptype=crashpad-handler "--database=C:\Users\Nis. E. Juul\AppData\Local\Microsoft\Edge\User Data\Crashpad" --annotation=IsOfficialBuild=1 --annotation=channel= --annotation=chromium-version=128.0.6613.138 "--annotation=exe=C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" --annotation=plat=Win64 --annotation=prod=Edge --annotation=ver=128.0.2739.79 --initial-client-data=0x27c,0x280,0x284,0x278,0x28c,0x7ffb570c9fd8,0x7ffb570c9fe4,0x7ffb570c9ff0
+5812	msedge.exe	"C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" --type=gpu-process --gpu-preferences=UAAAAAAAAADgAAAMAAAAAAAAAAAAAAAAAABgAAEAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAEAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAA --field-trial-handle=2380,i,10220553747513126899,10217133829925111477,262144 --variations-seed-version --mojo-platform-channel-handle=2372 /prefetch:2
+3592	msedge.exe	"C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" --type=utility --utility-sub-type=network.mojom.NetworkService --lang=en-GB --service-sandbox-type=none --field-trial-handle=2264,i,10220553747513126899,10217133829925111477,262144 --variations-seed-version --mojo-platform-channel-handle=2604 /prefetch:11
+3700	msedge.exe	"C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" --type=utility --utility-sub-type=storage.mojom.StorageService --lang=en-GB --service-sandbox-type=service --field-trial-handle=2712,i,10220553747513126899,10217133829925111477,262144 --variations-seed-version --mojo-platform-channel-handle=2768 /prefetch:13
+7736	msteams_autost	Required memory at 0x12a1d89020 is not valid (process exited?)
+7784	msteams.exe	"C:\Program Files\WindowsApps\MicrosoftTeams_24215.1105.3082.1600_x64__8wekyb3d8bbwe\msteams.exe" ms-teams:system-initiated
+8032	RuntimeBroker.	C:\Windows\System32\RuntimeBroker.exe -Embedding
+8156	msedgewebview2	"C:\Program Files (x86)\Microsoft\EdgeWebView\Application\128.0.2739.79\msedgewebview2.exe" --embedded-browser-webview=1 --webview-exe-name=msteams.exe --webview-exe-version=24215.1105.3082.1600 --user-data-dir="C:\Users\Nis. E. Juul\AppData\Local\Packages\MicrosoftTeams_8wekyb3d8bbwe\LocalCache\Microsoft\MSTeams\EBWebView" --noerrdialogs --embedded-browser-webview-dpi-awareness=2 --autoplay-policy=no-user-gesture-required --disable-features=BreakoutBoxPreferCaptureTimestampInVideoFrames,V8Maglev,msFloatyShouldHonorIndiaHoldout,msWebOOUI --enable-features=MojoIpcz,msSingleSignOnOSForPrimaryAccountIsShared,AutofillReplaceCachedWebElementsByRendererIds,msAbydos,msAbydosGestureSupport,msAbydosHandwritingAttr,msWebView2EnableDraggableRegions,msWebView2SetUserAgentOverrideOnIframes --lang=en-DK --mojo-named-platform-channel-pipe=7784.8148.10479565130108157744 /pfhostedapp:3055b2e688835e0c313f4effb77fb3339c7707ba
+7224	msedgewebview2	"C:\Program Files (x86)\Microsoft\EdgeWebView\Application\128.0.2739.79\msedgewebview2.exe" --type=crashpad-handler "--user-data-dir=C:\Users\Nis. E. Juul\AppData\Local\Packages\MicrosoftTeams_8wekyb3d8bbwe\LocalCache\Microsoft\MSTeams\EBWebView" /prefetch:4 /pfhostedapp:3055b2e688835e0c313f4effb77fb3339c7707ba --monitor-self-annotation=ptype=crashpad-handler "--database=C:\Users\Nis. E. Juul\AppData\Local\Packages\MicrosoftTeams_8wekyb3d8bbwe\LocalCache\Microsoft\MSTeams\EBWebView\Crashpad" --annotation=IsOfficialBuild=1 --annotation=channel= --annotation=chromium-version=128.0.6613.138 "--annotation=exe=C:\Program Files (x86)\Microsoft\EdgeWebView\Application\128.0.2739.79\msedgewebview2.exe" --annotation=plat=Win64 "--annotation=prod=Edge WebView2" --annotation=ver=128.0.2739.79 --initial-client-data=0x18c,0x190,0x194,0x168,0x19c,0x7ffb570c9fd8,0x7ffb570c9fe4,0x7ffb570c9ff0
+7644	msedgewebview2	"C:\Program Files (x86)\Microsoft\EdgeWebView\Application\128.0.2739.79\msedgewebview2.exe" --type=utility --utility-sub-type=network.mojom.NetworkService --lang=en-GB --service-sandbox-type=none --noerrdialogs --user-data-dir="C:\Users\Nis. E. Juul\AppData\Local\Packages\MicrosoftTeams_8wekyb3d8bbwe\LocalCache\Microsoft\MSTeams\EBWebView" --webview-exe-name=msteams.exe --webview-exe-version=24215.1105.3082.1600 --embedded-browser-webview=1 --embedded-browser-webview-dpi-awareness=2 --field-trial-handle=2072,i,13945888177040141814,6334991142268191370,262144 --enable-features=AutofillReplaceCachedWebElementsByRendererIds,MojoIpcz,msAbydos,msAbydosGestureSupport,msAbydosHandwritingAttr,msSingleSignOnOSForPrimaryAccountIsShared,msWebView2EnableDraggableRegions,msWebView2SetUserAgentOverrideOnIframes --disable-features=BreakoutBoxPreferCaptureTimestampInVideoFrames,V8Maglev,msFloatyShouldHonorIndiaHoldout,msWebOOUI --variations-seed-version --mojo-platform-channel-handle=2088 /prefetch:11 /pfhostedapp:3055b2e688835e0c313f4effb77fb3339c7707ba
+7560	msedgewebview2	"C:\Program Files (x86)\Microsoft\EdgeWebView\Application\128.0.2739.79\msedgewebview2.exe" --type=utility --utility-sub-type=storage.mojom.StorageService --lang=en-GB --service-sandbox-type=service --noerrdialogs --user-data-dir="C:\Users\Nis. E. Juul\AppData\Local\Packages\MicrosoftTeams_8wekyb3d8bbwe\LocalCache\Microsoft\MSTeams\EBWebView" --webview-exe-name=msteams.exe --webview-exe-version=24215.1105.3082.1600 --embedded-browser-webview=1 --embedded-browser-webview-dpi-awareness=2 --field-trial-handle=2308,i,13945888177040141814,6334991142268191370,262144 --enable-features=AutofillReplaceCachedWebElementsByRendererIds,MojoIpcz,msAbydos,msAbydosGestureSupport,msAbydosHandwritingAttr,msSingleSignOnOSForPrimaryAccountIsShared,msWebView2EnableDraggableRegions,msWebView2SetUserAgentOverrideOnIframes --disable-features=BreakoutBoxPreferCaptureTimestampInVideoFrames,V8Maglev,msFloatyShouldHonorIndiaHoldout,msWebOOUI --variations-seed-version --mojo-platform-channel-handle=2344 /prefetch:13 /pfhostedapp:3055b2e688835e0c313f4effb77fb3339c7707ba
+7724	msedgewebview2	"C:\Program Files (x86)\Microsoft\EdgeWebView\Application\128.0.2739.79\msedgewebview2.exe" --type=renderer --noerrdialogs --user-data-dir="C:\Users\Nis. E. Juul\AppData\Local\Packages\MicrosoftTeams_8wekyb3d8bbwe\LocalCache\Microsoft\MSTeams\EBWebView" --webview-exe-name=msteams.exe --webview-exe-version=24215.1105.3082.1600 --embedded-browser-webview=1 --embedded-browser-webview-dpi-awareness=2 --autoplay-policy=no-user-gesture-required --video-capture-use-gpu-memory-buffer --lang=en-GB --device-scale-factor=1 --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=5 --js-flags="--harmony-weak-refs-with-cleanup-some --expose-gc --ms-user-locale=en_DK" --time-ticks-at-unix-epoch=-1726411895224930 --launch-time-ticks=33098681 --field-trial-handle=3584,i,13945888177040141814,6334991142268191370,262144 --enable-features=AutofillReplaceCachedWebElementsByRendererIds,MojoIpcz,msAbydos,msAbydosGestureSupport,msAbydosHandwritingAttr,msSingleSignOnOSForPrimaryAccountIsShared,msWebView2EnableDraggableRegions,msWebView2SetUserAgentOverrideOnIframes --disable-features=BreakoutBoxPreferCaptureTimestampInVideoFrames,V8Maglev,msFloatyShouldHonorIndiaHoldout,msWebOOUI --variations-seed-version --mojo-platform-channel-handle=3628 /pfhostedapp:3055b2e688835e0c313f4effb77fb3339c7707ba /prefetch:1
+8380	msedgewebview2	"C:\Program Files (x86)\Microsoft\EdgeWebView\Application\128.0.2739.79\msedgewebview2.exe" --type=gpu-process --noerrdialogs --user-data-dir="C:\Users\Nis. E. Juul\AppData\Local\Packages\MicrosoftTeams_8wekyb3d8bbwe\LocalCache\Microsoft\MSTeams\EBWebView" --webview-exe-name=msteams.exe --webview-exe-version=24215.1105.3082.1600 --embedded-browser-webview=1 --embedded-browser-webview-dpi-awareness=2 --gpu-preferences=UAAAAAAAAADgAAAMAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAEAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAA --use-gl=angle --use-angle=swiftshader-webgl --field-trial-handle=3284,i,13945888177040141814,6334991142268191370,262144 --enable-features=AutofillReplaceCachedWebElementsByRendererIds,MojoIpcz,msAbydos,msAbydosGestureSupport,msAbydosHandwritingAttr,msSingleSignOnOSForPrimaryAccountIsShared,msWebView2EnableDraggableRegions,msWebView2SetUserAgentOverrideOnIframes --disable-features=BreakoutBoxPreferCaptureTimestampInVideoFrames,V8Maglev,msFloatyShouldHonorIndiaHoldout,msWebOOUI --variations-seed-version --mojo-platform-channel-handle=1852 /prefetch:2 /pfhostedapp:3055b2e688835e0c313f4effb77fb3339c7707ba
+8924	taskhostw.exe	taskhostw.exe $(Arg0)
+9172	svchost.exe	C:\Windows\system32\svchost.exe -k LocalServiceAndNoImpersonation -p
+6532	svchost.exe	C:\Windows\system32\svchost.exe -k LocalService
+3876	MoUsoCoreWorke	"C:\Windows\uus\packages\preview\AMD64\MoUsoCoreWorker.exe" useprivatenamespaces
+8960	MoNotification	Required memory at 0xa9388aa020 is not valid (process exited?)
+2416	FileCoAuth.exe	"C:\Users\Nis. E. Juul\AppData\Local\Microsoft\OneDrive\24.166.0818.0003\FileCoAuth.exe" -Embedding
+8684	WinRAR.exe	"C:\Program Files\WinRAR\WinRAR.exe" "C:\Users\Nis. E. Juul\Pictures\cctv.rar"
+6004	consent.exe	Required memory at 0x79708a0020 is not valid (process exited?)
+6228	regedit.exe	"C:\Windows\regedit.exe" 
+7828	WmiPrvSE.exe	C:\Windows\system32\wbem\wmiprvse.exe
+3360	notepad++.exe	"C:\Program Files\Notepad++\notepad++.exe" 
+6704	dllhost.exe	C:\Windows\system32\DllHost.exe /Processid:{AB8902B4-09CA-4BB6-B78D-A8F59079A8D5}
+4868	OpenWith.exe	Required memory at 0x39a7eb1020 is not valid (process exited?)
+5760	msedgewebview2	"C:\Program Files (x86)\Microsoft\EdgeWebView\Application\128.0.2739.79\msedgewebview2.exe" --embedded-browser-webview=1 --webview-exe-name=Widgets.exe --webview-exe-version=524.23700.10.0 --user-data-dir="C:\Users\Nis. E. Juul\AppData\Local\Packages\MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy\LocalState\EBWebView" --noerrdialogs --disk-cache-size=52428800 --edge-webview-is-background --enable-features=MojoIpcz --lang=en-GB --mojo-named-platform-channel-pipe=4984.5832.770314294031323799 /pfhostedapp:8fd5796ee6d52a9b05b31f5f1bafd019f381b85c
+5936	msedgewebview2	"C:\Program Files (x86)\Microsoft\EdgeWebView\Application\128.0.2739.79\msedgewebview2.exe" --type=crashpad-handler "--user-data-dir=C:\Users\Nis. E. Juul\AppData\Local\Packages\MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy\LocalState\EBWebView" /prefetch:4 /pfhostedapp:8fd5796ee6d52a9b05b31f5f1bafd019f381b85c --monitor-self-annotation=ptype=crashpad-handler "--database=C:\Users\Nis. E. Juul\AppData\Local\Packages\MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy\LocalState\EBWebView\Crashpad" --annotation=IsOfficialBuild=1 --annotation=channel= --annotation=chromium-version=128.0.6613.138 "--annotation=exe=C:\Program Files (x86)\Microsoft\EdgeWebView\Application\128.0.2739.79\msedgewebview2.exe" --annotation=plat=Win64 "--annotation=prod=Edge WebView2" --annotation=ver=128.0.2739.79 --initial-client-data=0x18c,0x190,0x194,0x168,0x19c,0x7ffb570c9fd8,0x7ffb570c9fe4,0x7ffb570c9ff0
+4728	msedgewebview2	"C:\Program Files (x86)\Microsoft\EdgeWebView\Application\128.0.2739.79\msedgewebview2.exe" --type=utility --utility-sub-type=network.mojom.NetworkService --lang=en-GB --service-sandbox-type=none --noerrdialogs --user-data-dir="C:\Users\Nis. E. Juul\AppData\Local\Packages\MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy\LocalState\EBWebView" --webview-exe-name=Widgets.exe --webview-exe-version=524.23700.10.0 --embedded-browser-webview=1 --field-trial-handle=1984,i,4199710819084454843,16613874445130643966,262144 --enable-features=MojoIpcz --variations-seed-version --mojo-platform-channel-handle=2096 /prefetch:11 /pfhostedapp:8fd5796ee6d52a9b05b31f5f1bafd019f381b85c
+2520	msedgewebview2	"C:\Program Files (x86)\Microsoft\EdgeWebView\Application\128.0.2739.79\msedgewebview2.exe" --type=utility --utility-sub-type=storage.mojom.StorageService --lang=en-GB --service-sandbox-type=service --noerrdialogs --user-data-dir="C:\Users\Nis. E. Juul\AppData\Local\Packages\MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy\LocalState\EBWebView" --webview-exe-name=Widgets.exe --webview-exe-version=524.23700.10.0 --embedded-browser-webview=1 --field-trial-handle=2368,i,4199710819084454843,16613874445130643966,262144 --enable-features=MojoIpcz --variations-seed-version --mojo-platform-channel-handle=2152 /prefetch:13 /pfhostedapp:8fd5796ee6d52a9b05b31f5f1bafd019f381b85c
+4476	msedgewebview2	"C:\Program Files (x86)\Microsoft\EdgeWebView\Application\128.0.2739.79\msedgewebview2.exe" --type=renderer --noerrdialogs --user-data-dir="C:\Users\Nis. E. Juul\AppData\Local\Packages\MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy\LocalState\EBWebView" --webview-exe-name=Widgets.exe --webview-exe-version=524.23700.10.0 --embedded-browser-webview=1 --video-capture-use-gpu-memory-buffer --lang=en-GB --device-scale-factor=1 --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=5 --js-flags="--harmony-weak-refs-with-cleanup-some --expose-gc --ms-user-locale=en_DK" --time-ticks-at-unix-epoch=-1726411895232416 --launch-time-ticks=317109284 --field-trial-handle=3532,i,4199710819084454843,16613874445130643966,262144 --enable-features=MojoIpcz --variations-seed-version --mojo-platform-channel-handle=3516 /pfhostedapp:8fd5796ee6d52a9b05b31f5f1bafd019f381b85c /prefetch:1
+5772	ShellExperienc	Required memory at 0x2f349c03d28 is inaccessible (swapped)
+1716	msedgewebview2	"C:\Program Files (x86)\Microsoft\EdgeWebView\Application\128.0.2739.79\msedgewebview2.exe" --type=gpu-process --noerrdialogs --user-data-dir="C:\Users\Nis. E. Juul\AppData\Local\Packages\MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy\LocalState\EBWebView" --webview-exe-name=Widgets.exe --webview-exe-version=524.23700.10.0 --embedded-browser-webview=1 --gpu-preferences=UAAAAAAAAADgAAAMAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAEAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAA --use-gl=angle --use-angle=swiftshader-webgl --field-trial-handle=1916,i,4199710819084454843,16613874445130643966,262144 --enable-features=MojoIpcz --variations-seed-version --mojo-platform-channel-handle=3572 /prefetch:2 /pfhostedapp:8fd5796ee6d52a9b05b31f5f1bafd019f381b85c
+204	consent.exe	Required memory at 0xd92bd65020 is not valid (process exited?)
+3364	FTK Imager.exe	"E:\FTK Imager\FTK Imager.exe" 
+6680	ApplicationFra	C:\Windows\system32\ApplicationFrameHost.exe -Embedding
+8196	SystemSettings	Required memory at 0x320c0 is not valid (process exited?)
+6812	WmiPrvSE.exe	C:\Windows\system32\wbem\wmiprvse.exe

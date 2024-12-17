@@ -1,0 +1,50 @@
+Volatility 3 Framework 2.11.0
+
+Offset	FileFullPath	File output
+
+0x9f8e6f0a7000		Disabled
+0x9f8e6f064000	\REGISTRY\MACHINE\SYSTEM	Disabled
+0x9f8e6f13d000	\REGISTRY\MACHINE\HARDWARE	Disabled
+0x9f8e6fb3a000	\SystemRoot\System32\Config\SOFTWARE	Disabled
+0x9f8e71685000	\Device\HarddiskVolume1\EFI\Microsoft\Boot\BCD	Disabled
+0x9f8e6f514000	\SystemRoot\System32\Config\DEFAULT	Disabled
+0x9f8e718b5000	\SystemRoot\System32\Config\SECURITY	Disabled
+0x9f8e71a05000	\SystemRoot\System32\Config\SAM	Disabled
+0x9f8e71b3b000	\??\C:\Windows\ServiceProfiles\NetworkService\NTUSER.DAT	Disabled
+0x9f8e71f44000	\SystemRoot\System32\Config\BBI	Disabled
+0x9f8e72418000	\??\C:\Windows\ServiceProfiles\LocalService\NTUSER.DAT	Disabled
+0x9f8e72eaf000	\??\C:\Users\Nis. E. Juul\ntuser.dat	Disabled
+0x9f8e72eb5000	\??\C:\Users\Nis. E. Juul\AppData\Local\Microsoft\Windows\UsrClass.dat	Disabled
+0x9f8e7591c000	\??\C:\ProgramData\Microsoft\Windows\AppRepository\Packages\MicrosoftWindows.Client.FileExp_1000.22700.1000.0_x64__cw5n1h2txyewy\ActivationStore.dat	Disabled
+0x9f8e75982000	\??\C:\ProgramData\Microsoft\Windows\AppRepository\Packages\MicrosoftWindows.Client.Core_1000.22700.1009.0_x64__cw5n1h2txyewy\ActivationStore.dat	Disabled
+0x9f8e75acd000	\??\C:\ProgramData\Microsoft\Windows\AppRepository\Packages\MicrosoftWindows.Client.CBS_1000.22700.1034.0_x64__cw5n1h2txyewy\ActivationStore.dat	Disabled
+0x9f8e77a38000	\??\C:\ProgramData\Microsoft\Windows\AppRepository\Packages\MicrosoftWindows.Client.WebExperience_524.23700.10.0_x64__cw5n1h2txyewy\ActivationStore.dat	Disabled
+0x9f8e77c0f000	\??\C:\ProgramData\Packages\MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy\S-1-5-21-2137864881-2530878059-532196947-1003\SystemAppData\Helium\Cache\2cf1c9054f3a49aa.dat	Disabled
+0x9f8e77c35000	\??\C:\Users\Nis. E. Juul\AppData\Local\Packages\MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy\SystemAppData\Helium\User.dat	Disabled
+0x9f8e77c40000	\??\C:\Users\Nis. E. Juul\AppData\Local\Packages\MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy\SystemAppData\Helium\UserClasses.dat	Disabled
+0x9f8e77c70000	\??\C:\ProgramData\Packages\MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy\S-1-5-21-2137864881-2530878059-532196947-1003\SystemAppData\Helium\Cache\2cf1c9054f3a49aa_COM15.dat	Disabled
+0x9f8e77a16000	\??\C:\ProgramData\Packages\MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy\S-1-5-21-2137864881-2530878059-532196947-1003\SystemAppData\Helium\Cache\2cf1c9054f3a49aa.dat	Disabled
+0x9f8e77aeb000	\??\C:\ProgramData\Microsoft\Windows\AppRepository\Packages\Microsoft.Windows.StartMenuExperienceHost_10.0.22621.4111_neutral_neutral_cw5n1h2txyewy\ActivationStore.dat	Disabled
+0x9f8e77a55000	\??\C:\ProgramData\Microsoft\Windows\AppRepository\Packages\Microsoft.UI.Xaml.CBS_8.2404.3001.0_x64__8wekyb3d8bbwe\ActivationStore.dat	Disabled
+0x9f8e77a91000	\??\C:\Users\Nis. E. Juul\AppData\Local\Packages\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\Settings\settings.dat	Disabled
+0x9f8e77e1d000	\??\C:\ProgramData\Packages\Microsoft.WidgetsPlatformRuntime_8wekyb3d8bbwe\S-1-5-21-2137864881-2530878059-532196947-1003\SystemAppData\Helium\Cache\2d7936e632ae1382.dat	Disabled
+0x9f8e77e21000	\??\C:\Users\Nis. E. Juul\AppData\Local\Packages\Microsoft.WidgetsPlatformRuntime_8wekyb3d8bbwe\SystemAppData\Helium\User.dat	Disabled
+0x9f8e77e8c000	\??\C:\Users\Nis. E. Juul\AppData\Local\Packages\Microsoft.WidgetsPlatformRuntime_8wekyb3d8bbwe\SystemAppData\Helium\UserClasses.dat	Disabled
+0x9f8e77e78000	\??\C:\ProgramData\Packages\Microsoft.WidgetsPlatformRuntime_8wekyb3d8bbwe\S-1-5-21-2137864881-2530878059-532196947-1003\SystemAppData\Helium\Cache\2d7936e632ae1382_COM15.dat	Disabled
+0x9f8e77e7b000	\??\C:\ProgramData\Packages\Microsoft.WidgetsPlatformRuntime_8wekyb3d8bbwe\S-1-5-21-2137864881-2530878059-532196947-1003\SystemAppData\Helium\Cache\2d7936e632ae1382.dat	Disabled
+0x9f8e71715000	\??\C:\ProgramData\Microsoft\Windows\AppRepository\Packages\Microsoft.WidgetsPlatformRuntime_1.5.0.0_x64__8wekyb3d8bbwe\ActivationStore.dat	Disabled
+0x9f8e77ed8000	\??\C:\ProgramData\Microsoft\Windows\AppRepository\Packages\Microsoft.WindowsAppRuntime.1.5_5001.214.1843.0_x64__8wekyb3d8bbwe\ActivationStore.dat	Disabled
+0x9f8e77f3a000	\??\C:\Users\Nis. E. Juul\AppData\Local\Packages\Microsoft.Windows.StartMenuExperienceHost_cw5n1h2txyewy\Settings\settings.dat	Disabled
+0x9f8e77f53000	\??\C:\Users\Nis. E. Juul\AppData\Local\Packages\MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy\Settings\settings.dat	Disabled
+0x9f8e78864000	\??\C:\ProgramData\Microsoft\Windows\AppRepository\Packages\Microsoft.LockApp_10.0.22621.3235_neutral__cw5n1h2txyewy\ActivationStore.dat	Disabled
+0x9f8e78cbc000	\??\C:\Users\Nis. E. Juul\AppData\Local\Packages\Microsoft.LockApp_cw5n1h2txyewy\Settings\settings.dat	Disabled
+0x9f8e76e2c000	\??\C:\ProgramData\Packages\MicrosoftTeams_8wekyb3d8bbwe\S-1-5-21-2137864881-2530878059-532196947-1003\SystemAppData\Helium\Cache\451adb1238e4b8f.dat	Disabled
+0x9f8e76e2f000	\??\C:\Users\Nis. E. Juul\AppData\Local\Packages\MicrosoftTeams_8wekyb3d8bbwe\SystemAppData\Helium\User.dat	Disabled
+0x9f8e76e32000	\REGISTRY\WC\Silo69f00d85-c7a4-d182-aa55-0f5246481ef2com	Disabled
+0x9f8e76e77000	\??\C:\ProgramData\Packages\MicrosoftTeams_8wekyb3d8bbwe\S-1-5-21-2137864881-2530878059-532196947-1003\SystemAppData\Helium\Cache\451adb1238e4b8f.dat	Disabled
+0x9f8e77320000	\??\C:\Users\Nis. E. Juul\AppData\Local\Packages\MicrosoftTeams_8wekyb3d8bbwe\Settings\settings.dat	Disabled
+0x9f8e76978000	\??\C:\Windows\AppCompat\Programs\Amcache.hve	Disabled
+0x9f8e7a5ac000	\??\C:\ProgramData\Microsoft\Windows\AppRepository\Packages\Microsoft.WindowsAppRuntime.CBS_4000.1189.418.0_x64__8wekyb3d8bbwe\ActivationStore.dat	Disabled
+0x9f8e7b855000	\??\C:\ProgramData\Microsoft\Windows\AppRepository\Packages\Microsoft.Windows.ShellExperienceHost_10.0.22621.3810_neutral_neutral_cw5n1h2txyewy\ActivationStore.dat	Disabled
+0x9f8e7c081000	\??\C:\ProgramData\Microsoft\Windows\AppRepository\Packages\windows.immersivecontrolpanel_10.0.6.1000_neutral_neutral_cw5n1h2txyewy\ActivationStore.dat	Disabled
+0x9f8e7bea0000	\??\C:\ProgramData\Microsoft\Windows\AppRepository\Packages\Microsoft.UI.Xaml.CBS_8.2305.16002.0_x64__8wekyb3d8bbwe\ActivationStore.dat	Disabled

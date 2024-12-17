@@ -1,0 +1,5 @@
+break *(store+708)
+run
+set $eax = 0x999999
+continue
+quit

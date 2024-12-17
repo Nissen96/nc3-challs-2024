@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Flimmer På Fjernsynet</title>
+    <style>
+        body {
+            display: flex;
+            justify-content: center;
+            height: 100vh;
+            margin: 0;
+        }
+        .container {
+            position: relative;
+            height: auto;
+            width: 100%;
+            max-width: 800px;
+            text-align: center;
+        }
+        .channel {
+            position: absolute;
+            top: 5%;
+            left: 0;
+            max-width: 80%;
+            max-height: 55%;
+            margin-left: 8%;
+            margin-top: 5%;
+        }
+        .tv {
+            position: absolute;
+            top: 5%;
+            left: 0;
+            max-width: 100%;
+            max-height: 90%;
+            pointer-events: none; /* Prevent interaction with TV overlay */
+        }
+        .button-container {
+            position: relative;
+            top: 85%;
+            margin-top: 10px;
+        }
+        .switch-button {
+            padding: 20px 40px;
+            font-size: 24px;
+            background-color: #72451f;
+            color: #fff;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+        .switch-button:hover {
+            background-color: #52250f;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <img src="/skift-kanal" alt="Flimmer" id="flimmer" class="channel">
+        <img src="../static/tv.png" alt="TV" class="tv">
+        <div class="button-container">
+            <button class="switch-button" onclick="switchChannel()">Skift Kanal</button>
+        </div>
+    </div>
+    <script>
+        function switchChannel() {
+            const flimmer = document.getElementById('flimmer');
+            const timestamp = new Date().getTime(); // Timestamp to bypass caching
+            flimmer.src = `/skift-kanal?${timestamp}`;
+        }
+    </script>
+</body>
+</html>

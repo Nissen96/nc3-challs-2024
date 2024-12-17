@@ -1,0 +1,5 @@
+pwntools
+pyasyncore
+pycryptodome
+pyOpenSSL
+tlslite-ng

@@ -1,0 +1,4 @@
+Disks 1-4 were in a RAID 6 setup in the order given.
+RAID 6 tolerates two disk failures, so two have been removed from handout.
+Only disk2 and disk4 are provided and have been renamed with their MD5 sums, players need to find the order too.
+
